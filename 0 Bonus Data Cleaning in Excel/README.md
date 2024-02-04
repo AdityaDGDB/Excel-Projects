@@ -31,7 +31,10 @@ Some of the cells in a column calculated by formula contains error, Here we use 
 
 
 ## Before Cleaning
+
+
 ## After Cleaning
+
 ## Acknowledgements
 
 Kenji Farre 
