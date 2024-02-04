@@ -36,6 +36,10 @@ Some of the cells in a column calculated by formula contains error, Here we use 
 ## After Cleaning
 ![Table befor cleaning](After.png)
 
+## Excel View
+
+For Viewing the file in excel and download the "0 Data Cleaning Routine.xlsx" file and open in Excel
+
 ## Acknowledgements
 
 Kenji Farre 
