@@ -33,8 +33,8 @@ Some of the cells in a column calculated by formula contains error, Here we use 
 ## Before Cleaning
 ![Table befor cleaning](Before.png)
 
-
 ## After Cleaning
+![Table befor cleaning](After.png)
 
 ## Acknowledgements
 
