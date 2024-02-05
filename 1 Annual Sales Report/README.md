@@ -40,7 +40,8 @@ The list of parameter and chart types are given below:
 
 ### Dashboard View 
 
-[Insert Img]
+![Dashboras view](Dash.png)
+
 
 
 
