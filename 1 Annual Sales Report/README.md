@@ -47,17 +47,17 @@ The list of parameter and chart types are given below:
 
 ## Insight
 
-1 Women are more likely to buy compared to men(65%)
+1 Women are more likely to buy compared to men(65%).
 
-2 Maharastra, Karnataka, UP are the top 3 states in terms of Sale
+2 Maharastra, Karnataka, UP are the top 3 states in terms of Sale.
 
-3 Adult Group (age: 30-49) are max contributing to sales
+3 Adult Group (age: 30-49) are max contributing to sales.
 
-4 Amazon, Flipkart and Myntra are the best channels
+4 Amazon, Flipkart and Myntra are the best channels.
 
 ### Action based on insight
 
-Target  female customers of age (30-49) who lives in Maharastra,Karnataka,UP by giving ad/offer/coupon on Amazon Flipkart and Myntra
+Target  female customers of age (30-49) who lives in Maharastra,Karnataka,UP by giving ad/offer/coupon on Amazon Flipkart and Myntra.
 
 
 
