@@ -52,6 +52,7 @@ The KPI presented are:
 ## Dashboard
 
 The complete Dashboard
+![The original Dashboard](Dash1.png)
 
 
 
