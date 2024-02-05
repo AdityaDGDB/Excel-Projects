@@ -37,23 +37,28 @@ The Road Accident Dashboard is an Excel-based project aimed at visualizing and a
 
 The raw data was cleaned and using pivot tables, conditional filtering and sorting the data is analysed. 
 
-The following are the data analysis tables for charts
+The following are the data analysis tables for charts:
+![Data analysis Tables](Charts.png)
+
 
 
 ## KPI
 
-The KPI presented are
+The KPI presented are:
+![KPI](KPI.png)
+
 
 
 ## Dashboard
 
 The complete Dashboard
 
-[Image]
+
+
 
 The dashboard with filter for accidents in rural region in the year 2022
 
-[Image]
+![Filtered Dashboard](Dash2.png)
 
 
 ## Insight
@@ -64,11 +69,13 @@ In the year 2022, the total number of recorded accidents was lower than in 2023.
 2. Accident by car has the highest casualties:
 Among all types of vehicles involved in accidents, those categorized as "car" resulted in the highest number of casualties. This suggests that car accidents may lead to more severe outcomes in terms of injuries or fatalities compared to accidents involving other types of vehicles.
 
-3. Dry and carriage has the most number of accidents:
+![Car Accidents ](CAR.png)
+
+4. Dry and carriage has the most number of accidents:
 The specific condition "dry and carriage" is associated with the highest number of recorded accidents. This condition might refer to dry road conditions with the presence of a carriage or cargo. Possible reasons for this could include high traffic volumes, specific road configurations, or frequent use of roads for transportation.
 
-4. In urban region most number of accidents are observed:
+5. In urban region most number of accidents are observed:
 The urban region consistently experiences the highest number of accidents. This could be attributed to factors such as higher population density, increased traffic congestion, complex road networks, and a greater likelihood of interactions between vehicles and pedestrians in urban areas.
 
-5. Though dark road is prone to accidents but most of the accidents are observed in daylight:
+6. Though dark road is prone to accidents but most of the accidents are observed in daylight:
 Even though dark road conditions are generally considered more prone to accidents, the data reveals that the majority of accidents occur during daylight hours.
