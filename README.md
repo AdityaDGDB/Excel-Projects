@@ -1,1 +1,1 @@
-view the projects in details click on the required project and scroll down.
+TO VIEW THE PROJECT IN DETAILS CLICK ON THE REQUIRED PROJECT AND SCROLL DOWN
